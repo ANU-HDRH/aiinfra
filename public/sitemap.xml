@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/docs/project-overview/</loc>
+    <loc>https://aiinfra.anu.edu.au/docs/project-overview/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/team/</loc>
+    <loc>https://aiinfra.anu.edu.au/docs/team/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/governance/</loc>
+    <loc>https://aiinfra.anu.edu.au/docs/governance/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/principles/</loc>
+    <loc>https://aiinfra.anu.edu.au/docs/principles/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/research/</loc>
+    <loc>https://aiinfra.anu.edu.au/docs/research/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/technical/</loc>
+    <loc>https://aiinfra.anu.edu.au/docs/technical/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/framework/</loc>
+    <loc>https://aiinfra.anu.edu.au/docs/framework/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/partners/</loc>
+    <loc>https://aiinfra.anu.edu.au/docs/partners/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://aiinfra.anu.edu.au/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/</loc>
+    <loc>https://aiinfra.anu.edu.au/docs/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://aiinfra.anu.edu.au/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://aiinfra.anu.edu.au/tags/</loc>
   </url>
 </urlset>
